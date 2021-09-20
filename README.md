@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sofiaki
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me here: sokiriazi@gmail.com
 
 <!---
 sofiaki/sofiaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
